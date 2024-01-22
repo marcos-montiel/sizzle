@@ -1,6 +1,6 @@
 # Sizzle: The Ultimate HTML template engine.
 
-![Sizzle logo](./assets/sizzle-logo.png "Sizzle logo")
+![Sizzle logo](./assets/sizzle-logo.jpg "Sizzle logo")
 
 ## Why?
 
